@@ -1,4 +1,6 @@
-This replication package contains the raw data related to the final POLARIS UI user study.
+# Towards Trustworthy AI: A Mixed-Methods Study of the POLARIS Framework
+
+This replication package contains the raw data related to the paper "Towards Trustworthy AI: A Mixed-Methods Study of the POLARIS Framework".
 
 It consists of multiple files, whose content is described below:
 
