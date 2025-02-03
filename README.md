@@ -4,7 +4,7 @@ This replication package contains the raw data related to the paper "Towards Tru
 
 It consists of multiple files, whose content is described below:
 
-- interview.docx: this is the interview canvas followed during the user interviews
+- interview.pdf: this is the interview canvas followed during the user interviews
 
 - raw_data.xlsx: this is the raw data analyzed, with graphs and quantitative metrics
 
